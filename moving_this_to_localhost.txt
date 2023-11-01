@@ -1,0 +1,1 @@
+sudo cp -R  /home/lftopalfredlames/Documents/Programming/aung-journal/* /var/www/html; sudo cp /home/lftopalfredlames/Documents/Programming/aung-journal/* /var/www/html
